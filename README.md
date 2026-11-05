@@ -1,6 +1,6 @@
 # PackUp
 
-PackUp is a full-stack Node.js exam project for connecting dog owners through events and activities.
+PackUp is a full-stack Node.js exam project for connecting dog owners through events/activities.
 
 ## About
 
@@ -8,7 +8,7 @@ Users will be able to create profiles with information about their dogs, create 
 
 ## Current status
 
-Initial backend built with Node.js and Express, inspired by the Node.js course.
+Initial project structure created with Node.js and Express. Basic routes have been implemented, while the remaining functionality is planned for future development.
 
 ## Planned features
 
